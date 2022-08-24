@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x0e3741eaac902c0a58cbf002cc183b8428e20c52",
+  "SCAN_LINK": "https://etherscan.io/token/0x0e3741eaac902c0a58cbf002cc183b8428e20c52",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "Ethereum",
+    "ID": 1
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
+  "NFT_NAME": "Seemeo Genesis Access",
+  "SYMBOL": "SGA",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 28000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 3800000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
   "SHOW_BACKGROUND": true
