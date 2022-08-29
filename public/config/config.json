@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0e3741eaac902c0a58cbf002cc183b8428e20c52",
-  "SCAN_LINK": "https://etherscan.io/token/0x0e3741eaac902c0a58cbf002cc183b8428e20c52",
+  "CONTRACT_ADDRESS": "0x04426D71fE77ae10899061ACDBa946d4a2209952",
+  "SCAN_LINK": "https://etherscan.io/token/0x04426D71fE77ae10899061ACDBa946d4a2209952",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Ethereum",
     "ID": 1
   },
-  "NFT_NAME": "Seemeo Genesis Access",
-  "SYMBOL": "SGA",
+  "NFT_NAME": "Seemeo Genesis Pass",
+  "SYMBOL": "SGP",
   "MAX_SUPPLY": 2222,
   "WEI_COST": 28000000000,
-  "DISPLAY_COST": 0.25,
+  "DISPLAY_COST": 0.19,
   "GAS_LIMIT": 3800000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/seemeo-genesis-pass",
   "SHOW_BACKGROUND": true
 }

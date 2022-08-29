@@ -15,6 +15,11 @@
         "internalType": "string",
         "name": "_initBaseURI",
         "type": "string"
+      },
+      {
+        "internalType": "string",
+        "name": "_initNotRevealedUri",
+        "type": "string"
       }
     ],
     "stateMutability": "nonpayable",
@@ -292,6 +297,19 @@
   },
   {
     "inputs": [],
+    "name": "notRevealedUri",
+    "outputs": [
+      {
+        "internalType": "string",
+        "name": "",
+        "type": "string"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
     "name": "owner",
     "outputs": [
       {
@@ -369,6 +387,26 @@
     "type": "function"
   },
   {
+    "inputs": [],
+    "name": "reveal",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "revealed",
+    "outputs": [
+      {
+        "internalType": "bool",
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
     "inputs": [
       {
         "internalType": "address",
@@ -410,7 +448,7 @@
       },
       {
         "internalType": "bytes",
-        "name": "_data",
+        "name": "data",
         "type": "bytes"
       }
     ],
@@ -472,6 +510,19 @@
       }
     ],
     "name": "setCost",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "string",
+        "name": "_notRevealedURI",
+        "type": "string"
+      }
+    ],
+    "name": "setNotRevealedURI",
     "outputs": [],
     "stateMutability": "nonpayable",
     "type": "function"
